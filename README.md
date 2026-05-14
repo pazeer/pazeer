@@ -105,22 +105,6 @@ const developer = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pazeer/pazeer/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pazeer/pazeer/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pazeer/pazeer/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-> 💡 **To enable the snake:** Go to your profile repo → Actions → Set up a new workflow using [this guide](https://github.com/Platane/snk).
-
-<br/>
-
----
-
 
 ## 🌐 Connect With Me
 
