@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Animated Typing Headline -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Full-Stack+Developer+%26+UI+Craftsman;JavaScript+%7C+PHP+%7C+Laravel+%7C+React+%7C+Next.js;Building+fast%2C+scalable%2C+beautiful+things.;Clean+code+is+not+a+luxury+%E2%80%94+it's+a+standard.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+%5BPazeer+Parray%5D+%F0%9F%91%8B;Full-Stack+Developer+%26+UI+Craftsman;JavaScript+%7C+PHP+%7C+Laravel+%7C+React+%7C+Next.js;Building+fast%2C+scalable%2C+beautiful+things.;Clean+code+is+not+a+luxury+%E2%80%94+it's+a+standard.)](https://git.io/typing-svg)
 
 <br/>
 
