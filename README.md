@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Animated Typing Headline -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+%5BPazeer+Parray%5D+%F0%9F%91%8B;Full-Stack+Developer+%26+UI+Craftsman;JavaScript+%7C+PHP+%7C+Laravel+%7C+React+%7C+Next.js;Building+fast%2C+scalable%2C+beautiful+things.;Clean+code+is+not+a+luxury+%E2%80%94+it's+a+standard.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Hey+there%2C+I'm+Pazeer+Parray+%F0%9F%91%8B;Full-Stack+Developer+%26+UI+Craftsman;JS+%7C+PHP+%7C+Laravel+%7C+React+%7C+Next.js;Building+fast%2C+scalable+%26+beautiful+things;Clean+code+is+not+a+luxury+%E2%80%94+it's+a+standard.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/github/followers/pazeer?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&label=FOLLOWERS" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-brightgreen?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/STATUS-Working-brightgreen?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -38,7 +38,7 @@ const developer = {
   role        : "Full-Stack Developer",
   stack       : ["JavaScript", "TypeScript", "PHP", "Laravel", "React", "Next.js"],
   currentFocus: "Building scalable web apps with clean architecture",
-  available   : true,
+  available   : false,
   hobbies     : ["Open Source", "UI Design", "Coffee ☕", "Late-night coding 🌙"],
   funFact     : "I once fixed a bug by deleting 200 lines of code 🧹",
 };
@@ -96,37 +96,9 @@ const developer = {
 
 <div align="center">
 
-<a href="https://github.com/pazeer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pazeer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pazeer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
-</a>
-
-<br/><br/>
-
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=pazeer&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=6e7681" />
 
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pazeer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
-<br/>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pazeer&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <br/>
@@ -149,37 +121,20 @@ const developer = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=pazeer&repo=your-repo-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff)](https://github.com/pazeer/your-repo-1)
-&nbsp;
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=pazeer&repo=your-repo-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff)](https://github.com/pazeer/your-repo-2)
-
-</div>
-
-<br/>
-
----
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/pazeer">
+<a href="https://linkedin.com/in/pazeerudin">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://twitter.com/pazeer">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:you@email.com">
+<a href="mailto:pazeerparray@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://yourportfolio.com">
+<a href="https://pazeerparray.xyz">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -191,14 +146,22 @@ const developer = {
 
 <div align="center">
 
-<!-- Random Dev Quote -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<!--  Dev Quote -->
+<div align="center">
+
+<br/>
+
+![Quote](https://img.shields.io/badge/-%22Talk%20is%20cheap.%20Show%20me%20the%20code.%22-0d1117?style=for-the-badge&labelColor=0d1117&color=00d4ff)
+
+![Author](https://img.shields.io/badge/_%E2%80%94%20Linus%20Torvalds-0d1117?style=flat-square&labelColor=0d1117&color=444)
+
+<br/>
+
+</div>
 
 <br/>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
-
-<sub>⭐ Drop a star on any repo you find useful — it means the world! ⭐</sub>
 
 </div>
